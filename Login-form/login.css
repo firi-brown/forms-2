@@ -36,7 +36,7 @@ input{
     margin-bottom: 25px;
     padding-left: 10px;
     border: none;
-    font-size: 18px;
+    font-size: 15px;
 }
 .password{
     color: white;
@@ -81,7 +81,7 @@ button{
     margin: 0 auto;
     padding: 8px 0;
     width: 150px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .instagram-link{
@@ -94,12 +94,12 @@ button{
     margin: 0 auto;
     padding: 8px 0;
     width: 150px;
-    font-size: 20px;
+    font-size: 18px;
 }
 .account{
     color: white;
     font-weight: 800;
-    font-size: 20px;
+    font-size: 18px;
 }
 .sign-up{
     display: flex;
@@ -115,5 +115,5 @@ button{
     text-decoration: none;
     color:  #5BC0F8;
     font-weight: 800;
-    font-size: 20px;
+    font-size: 18px;
 }
