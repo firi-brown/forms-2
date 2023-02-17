@@ -69,12 +69,10 @@ button {
   /* border: 1px solid white; */
   width: 350px;
 }
-
-.facebook-link {
-  color: white;
+.btm-link{
+ color: white;
   text-decoration: none;
   font-weight: 800;
-  background-color: #5bc0f8;
   display: block;
   text-align: center;
   margin: 0 auto;
@@ -83,17 +81,12 @@ button {
   font-size: 18px;
 }
 
+.facebook-link {
+  background-color: #5bc0f8;
+ }
+
 .instagram-link {
-  color: white;
-  text-decoration: none;
-  font-weight: 800;
   background-color: #ff5f9e;
-  display: block;
-  text-align: center;
-  margin: 0 auto;
-  padding: 8px 0;
-  width: 150px;
-  font-size: 18px;
 }
 .account {
   color: white;
